@@ -1,2 +1,2 @@
 Hey!
-This repository is used to pulish my work on data science
+This repository is used to publish my work on data science
